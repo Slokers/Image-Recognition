@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://1umaquexnwa2"
+
+[deps]
+
+files=["res://19402416/Supporting/SourceCode/FYP/build/trainingdata.building.translation"]
+
+source_file="res://19402416/Supporting/SourceCode/FYP/build/trainingdata.csv"
+dest_files=["res://19402416/Supporting/SourceCode/FYP/build/trainingdata.building.translation"]
+
+[params]
+
+compress=true
+delimiter=0

@@ -1,0 +1,6 @@
+Score,Input image,Best match image index,Number of good matches,Building name
+0.456,/home/raj/Desktop/fyp/images/testing/testing1.jpg,2,228,Arts
+0.198,/home/raj/Desktop/fyp/images/testing/testing2.jpg,42,99,Arts
+0.22,/home/raj/Desktop/fyp/images/testing/testing3.jpg,44,110,Iontas
+0.262,/home/raj/Desktop/fyp/images/testing/testing4.jpg,74,131,Iontas
+0.158,/home/raj/Desktop/fyp/images/testing/testing5.jpg,21,79,Arts
